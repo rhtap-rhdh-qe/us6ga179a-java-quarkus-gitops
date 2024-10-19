@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: us6ga179a-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/us6ga179a-java-quarkus-gitops
